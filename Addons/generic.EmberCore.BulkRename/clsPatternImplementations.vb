@@ -43,7 +43,7 @@ Public Class PatternImplementations
 #Region "Patterns"
     ' The functions in this section are dynamically invoked.
     ' Their names must start with '_Pattern_' and be followed 
-    ' with the name of the pattern (uppercase by definition)
+    ' with the name of the pattern (uppercase by convention)
 
 
     Public Function _Pattern_ACHANNELS() As String
